@@ -9,14 +9,14 @@ class ComposerStaticInit89cf897a6037a871f5b81bea51daea62
     public static $files = array (
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
-        '07b3b2bd00998d6c624b585982e225a1' => __DIR__ . '/../..' . '/src/AdditionalSofa.php',
-        'c937eb1806411050715fa740cbb61140' => __DIR__ . '/../..' . '/src/Breakfast.php',
-        'c8c2763e347cba61ff397df3e7d74ecc' => __DIR__ . '/../..' . '/src/DedicatedInternet.php',
-        '189db69386563812b04b28fd076df060' => __DIR__ . '/../..' . '/src/DiliveryFood.php',
-        '03060db0e37defda6aabcc91ad438d52' => __DIR__ . '/../..' . '/src/Dinner.php',
-        '1953148f8f8b7714f97d42d22293dcd8' => __DIR__ . '/../..' . '/src/EconomyRoom.php',
-        '8a9e03b18a15e79557ef356931766613' => __DIR__ . '/../..' . '/src/LuxaryRoom.php',
-        'fa8ef0eea2f01ca42cf86647f366f4b9' => __DIR__ . '/../..' . '/src/StandartRoom.php',
+        '67531604d9eb393da2547cf1c43c588e' => __DIR__ . '/../..' . '/src/AdditionalSofa.php',
+        '87aebcb841998392f3706b2768244c6e' => __DIR__ . '/../..' . '/src/Breakfast.php',
+        'aab2391777cf38b547495445b0d98e6f' => __DIR__ . '/../..' . '/src/DedicatedInternet.php',
+        '27eb9278c29326d3999b809d2bbf7f3d' => __DIR__ . '/../..' . '/src/DiliveryFood.php',
+        'ae126f0c8830318253c66a8c5f8fb7ef' => __DIR__ . '/../..' . '/src/Dinner.php',
+        'f942a4881c47bf98edca33a7a81de07d' => __DIR__ . '/../..' . '/src/EconomyRoom.php',
+        '460c91315624d9bbb9d45034503fa71c' => __DIR__ . '/../..' . '/src/LuxaryRoom.php',
+        '8bae8391e112b99f1de17f57fdfe5fad' => __DIR__ . '/../..' . '/src/StandartRoom.php',
     );
 
     public static $prefixLengthsPsr4 = array (
